@@ -24,7 +24,7 @@ A modern, AI-powered marketing intelligence dashboard built with React, TypeScri
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React 18 + TypeScript
+- **Frontend**: React 19 + TypeScript
 - **Build Tool**: Vite
 - **Styling**: Tailwind CSS
 - **State Management**: Zustand
