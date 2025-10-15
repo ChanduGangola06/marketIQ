@@ -35,7 +35,7 @@ A modern, AI-powered marketing intelligence dashboard built with React, TypeScri
 ## 📋 Prerequisites
 
 - Node.js 18+ 
-- npm or yarn
+- npm or yarn or bun
 
 ## 🚀 Quick Start
 
@@ -47,12 +47,12 @@ A modern, AI-powered marketing intelligence dashboard built with React, TypeScri
 
 2. **Install dependencies**
    ```bash
-   npm install
+   bun install
    ```
 
 3. **Start development server**
    ```bash
-   npm run dev
+   bun run dev
    ```
 
 4. **Open your browser**
@@ -150,29 +150,29 @@ if (lowerPrompt.includes('ctr') && lowerPrompt.includes('top')) {
 
 ### Manual Build
 ```bash
-npm run build
-npm run preview
+bun run build
+bun run preview
 ```
 
 ## 🧪 Testing
 
 ```bash
 # Run type checking
-npm run build
+bun run build
 
 # Start development server
-npm run dev
+bun run dev
 
 # Build for production
-npm run build
+bun run build
 ```
 
 ## 📝 Available Scripts
 
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
-- `npm run lint` - Run ESLint (if configured)
+- `bun run dev` - Start development server
+- `bun run build` - Build for production
+- `bun run preview` - Preview production build
+- `bun run lint` - Run ESLint (if configured)
 
 ## 🔧 Configuration
 
